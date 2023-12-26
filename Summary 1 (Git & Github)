@@ -1,119 +1,22 @@
-# Markdown Cheat Sheet
+# Belajar Dasar Git dan Github by [Dicoding Indonesia](https://www.dicoding.com/academies/317)
 
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
+## Pengalaman Belajar di Dicoding
 
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
+**14 Juni 2021** <br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-## Basic Syntax
+**15 Juni 2021** <br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+* Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+* Belajar control flow dalam Java, seperti perulangan dan percabangan.
+* Belajar tipe data koleksi, seperti list, set, dan map.
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+**20 Juni 2021**<br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
+* Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+* Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
+* Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
+* Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
-### Heading
-
-# H1
-## H2
-### H3
-
-### Bold
-
-**bold text**
-
-### Italic
-
-*italicized text*
-
-### Blockquote
-
-> blockquote
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Code
-
-`code`
-
-### Horizontal Rule
-
----
-
-### Link
-
-[Markdown Guide](https://www.markdownguide.org)
-
-### Image
-
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
-
-## Extended Syntax
-
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
-
-### Table
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-### Fenced Code Block
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-### Footnote
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### Heading ID
-
-### My Great Heading {#custom-id}
-
-### Definition List
-
-term
-: definition
-
-### Strikethrough
-
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-### Emoji
-
-That is so funny! :joy:
-
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Highlight
-
-I need to highlight these ==very important words==.
-
-### Subscript
-
-H~2~O
-
-### Superscript
-
-X^2^
