@@ -1,4 +1,4 @@
-# Belajar Dasar Git dan Github by [Dicoding Indonesi](https://www.dicoding.com/academies/317)
+# Belajar Dasar Git dan Github by [Dicoding Indonesia](https://www.dicoding.com/academies/317)
 
 ## Pengalaman Belajar di Dicoding
 
