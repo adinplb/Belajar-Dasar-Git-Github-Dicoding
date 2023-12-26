@@ -1,6 +1,6 @@
 # Rangkuman Git dan Github
 
-- Dibangun oleh <mark>Linus Torvalds</mark> bersama tim pada tahun 2005. Git dibangun dengan tujuan agar dapat melakukan kolaborasi antar tim serta bagaimana proyek dapat dikontrol dengan baik. Untuk bisa berkolaborasi, bisa dengan membangun proyek menjadi open source atau pilihan lainnya menyetel kolaborasi dengan orang lain.
+- Dibangun oleh **Linus Torvalds** bersama tim pada tahun 2005. Git dibangun dengan tujuan agar dapat melakukan kolaborasi antar tim serta bagaimana proyek dapat dikontrol dengan baik. Untuk bisa berkolaborasi, bisa dengan membangun proyek menjadi open source atau pilihan lainnya menyetel kolaborasi dengan orang lain.
 
 <br>
 
